@@ -23,6 +23,6 @@ A aplicação é um sistema de vendas, onde os dados será obtidos através do c
 
 # Autor
 ## Edilson Claudio Silvestrini Filho
-- [Email](edilsonlinefilho@gmail.com)
+- [Email](mailto:edilsonlinefilho@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/edilson-claudio-silvestrini-filho/)
 - [Celular / Whatsapp](https://api.whatsapp.com/send?phone=5519983724834)
