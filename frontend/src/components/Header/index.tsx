@@ -1,5 +1,5 @@
 import logo from "../../assets/img/logo.png";
-import './style.css'
+import './style.css';
 
 function Header() {
     return (
@@ -13,4 +13,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
